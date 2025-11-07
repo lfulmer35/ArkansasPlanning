@@ -12,38 +12,6 @@ time exploring and seeing the benefits or downsides to additional areas.
  * Delays overall timeline
  * Requires multiple moves
  * Complicates Lucas' job search
-### Conway
-#### Advantages
- * Closer to family
- * Lower cost than NW AR (likely)
- * Close to NB and LR
- * Close to Josh and Hailey(sp?)
- * Close to good hospitals
- * Good schools
- * Close to LR for Lucas job
-#### Disadvantages :poop:
- * Further from NW AR (for scouting)
- * Further from NW AR (for job switching)
- * Further from NW AR (for fun NW AR stuff)
-### New Blaine
-#### Advantages
- * Lowest cost
- * Central location for NW AR and Central AR
-#### Disadvantages :poop:
- * Proximity to better hospitals
- * Proximity to better schools
-### Fayetteville
- * Rent home in area
- * Scout other areas while experiencing NW AR
-#### Advantages
- * NW AR has lots of fun stuff
- * Close to good hospitals
- * Close to best schools?
- * Possibly most jobs for Lucas
-#### Disadvantages :poop:
- * Not close to family
- * Not close to friends (possible)
- * Further from LR (for job switching)
 ## Plan 2 - Move direct
 ### Summary
 This plan assumes that Lucas' job search is higher priority. Moving directly to
