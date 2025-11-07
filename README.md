@@ -12,3 +12,6 @@ some of the planning documentation for the move itself.
 ### Ecogeography of Arkansas
  * State Ecogeography [Front Page](https://github.com/lfulmer35/ArkansasPlanning/blob/master/ar_ecogeography_front.pdf)
  * State Ecogeography [Back Page](https://github.com/lfulmer35/ArkansasPlanning/blob/master/ar_ecogeography_back.pdf)
+
+### Agriculture in Arkansas
+ * USDA Portal [Data By County](https://www.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/County_Profiles/Arkansas/index.php)
