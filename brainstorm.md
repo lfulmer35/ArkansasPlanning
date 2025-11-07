@@ -35,7 +35,7 @@ made on the area you will live/work.
  * No hard time/decision point for final decisions
     - Selection of the area
     - Move date from CO -> AR
---------------------------------------------------------------------------------
+
 # Possible Locations
 ## Fayetteville :boar: :pig_nose:
 ### Summary
@@ -75,6 +75,7 @@ travel to LR for certain amenities.
  * Soil is more available (probably)
  * Easier to find uncontaminated land (probably)
  * Medium expensive (probably)
+ * Faulkner county has low chicken, pig, and pesticide use (compared to others)
 ### Disadvantages :poop:
  * Further from fun NW AR stuff
  * Fewer clean grocery store options (probably)
@@ -93,7 +94,7 @@ and New Blaine, and its river valley location.
  * Decent healthcare (maybe) and schools
  * Some museums (history type)
 ### Disadvantages :poop:
- * Fewer job opportunities for Lucas (probably)
+ * Fewer job opportunities for Lucas (possibly)
  * Must travel 1hr or more for anything bigger
 ## Cabot :strawberry:
 ### Summary
@@ -139,6 +140,7 @@ friends.
  * Close to various outdoor activities (lakes, Ouachitas)
  * Close to Benton family
  * Good fishing
+ * Low pesticide use, low contamination (compared to others)
 ### Disadvantages :poop:
  * Far from NW AR
  * Further (1hr) to LR
@@ -156,6 +158,7 @@ friends.
  * Proximity to New Blaine and Conway
  * Central between LR and NW AR
  * Good fishing and deer hunting
+ * Close to Ouachitas, Ozarks, Petit Jean, Nebo, Lake Dardanelle
 ### Disadvantages :poop:
  * Healthcare and schools are lower quality
  * Further from NW AR and LR
@@ -173,6 +176,7 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Good soil
  * Apparently a homesteading conference is here (small)
  * Good fishing, deer, and duck hunting
+ * Medium to low pesticide and contamination (probably)
 ### Disadvantages :poop:
  * More secluded
  * Very little in the towns
@@ -189,7 +193,7 @@ standard amenities is Russeville and/or Clarksville.
  * Lowest cost
  * Very close to family
  * Good fishing, duck, and deer hunting because of families water access
- * Close to Ouachitas, Ozarks, Petit Jean, Magazine, Lake Dardanelle
+ * Close to Ouachitas, Ozarks, Petit Jean, Magazine, Nebo, Lake Dardanelle
  * Soil is likely good b/c of river valley
 ### Disadvantages :poop:
  * Lower quality healthcare within 30min
@@ -202,6 +206,24 @@ standard amenities is Russeville and/or Clarksville.
 ## Land Characteristics :seedling:
  * Soil quality
  * Access to timber
+ * Concentration of pesticide heavy crops
+ * Conentration of animal contaminants (pig, chicken farms) :shit:
+### County Comparisons by Contaminants
+| County | Town|  Pesticide Crops | Chickens | Hogs | Dairy|
+|----|----|----|----|----|----|
+|Crawford|Van Buren|5,611|35,524|20|Few|
+|Faulkner |Conway, Greenbriar, Vilonia| 7,377 | 166 | UNK | 1,334|
+|Garland |Hot Springs| UNK | 5,309 | UNK | UNK |
+|Logan | New Blaine|8,607 | 267,602 | 126 | Few |
+|Lonoke|Cabot|263,000|UNK|Few|None|
+|Madison|Huntsville| Few|344,816|UNK|2,074|
+|Perry| Perryville, Bigelow|6,400|40,850|166|None|
+|Pope| Russellville| 14,400|185,682|4,041|None|
+|Pulaski|Little Rock| 13,000|7,463|198|None|
+|Saline|Benton|Few|Few|123|Few|
+|Scott|Waldron|Few|227,708|None|None|
+|Sebastian|Fort Smith|5,000|114,295|12|None|
+
 ## Property Characteristics :mailbox: :european_castle:
  * Existing structures
  * Existing home
