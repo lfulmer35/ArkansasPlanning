@@ -204,9 +204,9 @@ standard amenities is Russeville and/or Clarksville.
  * Requires fully remote job for Lucas (likely)
 # What are the metrics, deciding factors, priorities?
 ## Land Characteristics :seedling:
- * Soil quality
+ * ==Soil quality==
  * Access to timber
- * Concentration of pesticide heavy crops
+ * Concentration of pesticide heavy crops :skull:
  * Conentration of animal contaminants (pig, chicken farms) :shit:
 ### County Comparisons by Contaminants
 | County | Example Town|  Pesticide Crops | Chickens | Hogs | Dairy|
