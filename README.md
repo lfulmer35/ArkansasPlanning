@@ -1,4 +1,4 @@
-# Arkansas Planning
+# Arkansas Planning :boar:
 ## Summary
 This repository is meant to hold helpful information pertaining to our planned
 move to Arkansas. It contains information about the state, cities, as well as 
