@@ -217,7 +217,7 @@ standard amenities is Russeville and/or Clarksville.
  * Lucas has job ?
     - Lucas can has temp job
     - Lucas has permanent job
-## Lucas Job
+## Lucas Job :computer:
 ### Option 1 - Remote
 #### 1A - Job prior to moving
 ##### Advantages :thumbsup:
@@ -258,7 +258,7 @@ standard amenities is Russeville and/or Clarksville.
  * More knowledge of the area/job market
 ##### Disadvantages :poop:
  * Same as Option 1 and 2A
-
+# Timeline
 ```mermaid
 gantt
 title Move Timeline
