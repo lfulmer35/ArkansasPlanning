@@ -211,6 +211,7 @@ standard amenities is Russeville and/or Clarksville.
 ### County Comparisons by Contaminants
 | County | Example Town|  Pesticide Crops | Chickens | Hogs | Dairy|
 |----|----|----|----|----|----|
+|Benton|Bentonville|< 2,000|818,311|< 4,000|2,793|
 |Crawford|Van Buren|5,611|35,524|20|Few|
 |Faulkner |Conway, Greenbriar, Vilonia| 7,377 | 166 | Few | 1,334|
 |Garland |Hot Springs| < 4,000 | 5,309 | Few | Few |
@@ -223,6 +224,7 @@ standard amenities is Russeville and/or Clarksville.
 |Saline|Benton|Few|Few|123|Few|
 |Scott|Waldron|Few|227,708|None|None|
 |Sebastian|Fort Smith|5,000|114,295|12|None|
+|Washington|Fayetteville|2,000|643,510|5,719|886|
 
 ## Property Characteristics :mailbox: :european_castle:
  * Existing structures
