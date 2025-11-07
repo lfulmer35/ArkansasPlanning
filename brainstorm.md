@@ -8,7 +8,7 @@ time exploring and seeing the benefits or downsides to additional areas.
  * Try before you buy
  * More time for explortation
  * Ability to make more informed decision
-#### Disadvantages :poop:
+#### Disadvantages :poop: 
  * Delays overall timeline
  * Requires multiple moves
  * Complicates Lucas' job search
@@ -21,7 +21,7 @@ time exploring and seeing the benefits or downsides to additional areas.
  * Close to good hospitals
  * Good schools
  * Close to LR for Lucas job
-#### Disadvantages
+#### Disadvantages :poop:
  * Further from NW AR (for scouting)
  * Further from NW AR (for job switching)
  * Further from NW AR (for fun NW AR stuff)
@@ -29,7 +29,7 @@ time exploring and seeing the benefits or downsides to additional areas.
 #### Advantages
  * Lowest cost
  * Central location for NW AR and Central AR
-#### Disadvantages
+#### Disadvantages :poop:
  * Proximity to better hospitals
  * Proximity to better schools
 ### Fayetteville
@@ -40,7 +40,7 @@ time exploring and seeing the benefits or downsides to additional areas.
  * Close to good hospitals
  * Close to best schools?
  * Possibly most jobs for Lucas
-#### Disadvantages
+#### Disadvantages :poop:
  * Not close to family
  * Not close to friends (possible)
  * Further from LR (for job switching)
@@ -55,7 +55,7 @@ made on the area you will live/work.
  * Shorter timeline
  * Less risk to job search aspect
  * Multiple moves will be shorter distance
-#### Disadvantages
+#### Disadvantages :poop:
  * Does not allow try-before-you-buy
  * May still imply multiple moves
 ## How to execute possible plans
@@ -80,7 +80,7 @@ parts of the state.
  * Clean grocery store options
  * Close to Ozarks (outdoor activities)
  * Close to job opportunities
-#### Disadvantages
+#### Disadvantages :poop:
  * Further from family
  * Further from friends
  * More expensive (probably)
@@ -103,7 +103,7 @@ travel to LR for certain amenities.
  * Soil is more available (probably)
  * Easier to find uncontaminated land (probably)
  * Medium expensive (probably)
-#### Disadvantages
+#### Disadvantages :poop:
  * Further from fun NW AR stuff
  * Fewer clean grocery store options (probably)
  * Relies on proximity to LR for some of its advantages listed above
@@ -120,7 +120,7 @@ and New Blaine, and its river valley location.
  * One hour to Fayetteville or New Blaine
  * Decent healthcare (maybe) and schools
  * Some museums (history type)
-#### Disadvantages
+#### Disadvantages :poop:
  * Fewer job opportunities for Lucas (probably)
  * Must travel 1hr or more for anything bigger
 ### Cabot
@@ -135,7 +135,8 @@ amenities. Apparently known for its strawberry festival and Cabotfest.
  * Small town, near to LR
  * Close to many defense type jobs
  * Near (45min) to Conway friends
-#### Disadvantages
+ * Good duck hunting if you have water 
+#### Disadvantages :poop:
  * Possibly more pesticide concerns (uncertain)
  * Further from New Blaine
  * Further from most outdoor activities (not Ozark, Ouachita, or lakes)
@@ -152,7 +153,7 @@ homeschooling center. Near to family and 45min to Conway friends.
  * Close to Jonathan and Wendy
  * Near (45min) to Conway friends
  * Close to Hot Springs entertainment
-#### Disadvantages
+#### Disadvantages :poop:
  * Further from New Blaine and most family
 ### Hot Springs
 #### Summary
@@ -165,7 +166,8 @@ friends.
  * Lots of fun restaurants (probably)
  * Close to various outdoor activities (lakes, Ouachitas)
  * Close to Benton family
-#### Disadvantages
+ * Good fishing
+#### Disadvantages :poop:
  * Far from NW AR
  * Further (1hr) to LR
  * Further (1:15) to friends in Conway
@@ -181,7 +183,8 @@ friends.
  * Cheaper
  * Proximity to New Blaine and Conway
  * Central between LR and NW AR
-#### Disadvantages
+ * Good fishing and deer hunting
+#### Disadvantages :poop:
  * Healthcare and schools are lower quality
  * Further from NW AR and LR
  * Few if any healthy grocery store options
@@ -197,12 +200,31 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Near to New Blaine - Perryville (1:05), Bigelow (1:15), Roland (1:40)
  * Good soil
  * Apparently a homesteading conference is here (small)
-#### Disadvantages
+ * Good fishing, deer, and duck hunting
+#### Disadvantages :poop:
  * More secluded
  * Very little in the towns
  * Flood plain (good for soil, but must be considered for farm)
  * Further from healthcare and schools
-
+### New Blaine
+#### Summary
+New Blaine is where the Fulmer clan has become headquartered. There are multiple
+properties in the area which are already owned and may be immediately used. It 
+is relatively near to Conway and Fort Smith, though it's closest city with 
+standard amenities is Russeville and/or Clarksville.
+#### Advantages
+ * Property already available
+ * Lowest cost
+ * Very close to family
+ * Good fishing, duck, and deer hunting because of families water access
+ * Close to Ouachitas, Ozarks, Petit Jean, Magazine, Lake Dardanelle
+ * Soil is likely good b/c of river valley
+#### Disadvantages :poop:
+ * Lower quality healthcare within 30min
+ * Nearest cities only have basic amenities
+ * Further from friends  - Conway (1:05)
+ * Further from NW AR - Fayetteville (1:45)
+ * Medium number of chicken/hog farms
 ## What are the metrics, deciding factors, priorities?
 ### Land Characteristics
  * Soil quality
@@ -211,12 +233,12 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Existing structures
  * Existing home
  * Live water, ponds, springs
-### Proximity to (need to order these)
- * Quality grocery?
+### Proximity to (need to order these by priority)
+ * Family/friends
  * Hospital
  * Schools
+ * Quality grocery
  * Churches
- * Family/friends
 ## What are the conditions that must be met?
 ### Job Requirements
  * Lucas has job ?
@@ -231,7 +253,7 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Continuity of insurance and pay
  * Not tied to any location
  * Lucas more able to help with house, kids, farm
-##### Disadvantages
+##### Disadvantages :poop:
  * Harder to land remote job
  * Lucas less effective at remote work (usually)
 #### 1B - Move prior to landing job
@@ -239,7 +261,7 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Simpler timeline with fewer constraints
  * Less dependencies
  * Potentially easier to find local remote jobs
-##### Disadvantages
+##### Disadvantages :poop:
  * Higher risk
  * Requries Cobra or marketplace insurance
  * Monetarily costly
@@ -252,7 +274,7 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Easier to interview (probably)
  * Lucas more effective in-office (usually)
  * More job opportunities (probably)
-##### Disadvantages
+##### Disadvantages :poop:
  * Less flexible timeline
  * May require Lucas to move before Celeste and family
  * May require finding another job if home purchased elsewhere
@@ -261,7 +283,7 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
 ##### Advantages
  * More flexible timeline
  * More knowledge of the area/job market
-##### Disadvantages
+##### Disadvantages :poop:
  * Same as Option 1 and 2A
 
 ```mermaid
