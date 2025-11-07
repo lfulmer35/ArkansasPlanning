@@ -209,14 +209,14 @@ standard amenities is Russeville and/or Clarksville.
  * Concentration of pesticide heavy crops
  * Conentration of animal contaminants (pig, chicken farms) :shit:
 ### County Comparisons by Contaminants
-| County | Town|  Pesticide Crops | Chickens | Hogs | Dairy|
+| County | Example Town|  Pesticide Crops | Chickens | Hogs | Dairy|
 |----|----|----|----|----|----|
 |Crawford|Van Buren|5,611|35,524|20|Few|
-|Faulkner |Conway, Greenbriar, Vilonia| 7,377 | 166 | UNK | 1,334|
-|Garland |Hot Springs| UNK | 5,309 | UNK | UNK |
+|Faulkner |Conway, Greenbriar, Vilonia| 7,377 | 166 | Few | 1,334|
+|Garland |Hot Springs| < 4,000 | 5,309 | Few | Few |
 |Logan | New Blaine|8,607 | 267,602 | 126 | Few |
-|Lonoke|Cabot|263,000|UNK|Few|None|
-|Madison|Huntsville| Few|344,816|UNK|2,074|
+|Lonoke|Cabot|263,000|Few|Few|None|
+|Madison|Huntsville| Few|344,816|Few|2,074|
 |Perry| Perryville, Bigelow|6,400|40,850|166|None|
 |Pope| Russellville| 14,400|185,682|4,041|None|
 |Pulaski|Little Rock| 13,000|7,463|198|None|
