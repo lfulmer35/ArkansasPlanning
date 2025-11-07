@@ -35,7 +35,7 @@ made on the area you will live/work.
  * No hard time/decision point for final decisions
     - Selection of the area
     - Move date from CO -> AR
-
+--------------------------------------------------------------------------------
 # Possible Locations
 ## Fayetteville :boar: :pig_nose:
 ### Summary
