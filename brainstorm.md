@@ -37,7 +37,7 @@ made on the area you will live/work.
     - Move date from CO -> AR
 
 # Possible Locations
-## Fayetteville :boar: :pignose:
+## Fayetteville :boar: :pig_nose:
 ### Summary
 Fayetteville is in vibrant NW AR which offers many amenities that are not 
 found elsewhere in the state. Lots of money has gone into this area and there 
@@ -178,7 +178,7 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Very little in the towns
  * Flood plain (good for soil, but must be considered for farm)
  * Further from healthcare and schools
-## New Blaine
+## New Blaine :rowboat: :tractor:
 ### Summary
 New Blaine is where the Fulmer clan has become headquartered. There are multiple
 properties in the area which are already owned and may be immediately used. It 
