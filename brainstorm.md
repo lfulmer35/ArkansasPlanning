@@ -1,4 +1,4 @@
-# Execution phase
+# Planning Phase
 ## Plan 1 - Move to temp location
 ### Summary
 Moving to a temporary location provides the opportunity to live in an area 
@@ -58,21 +58,20 @@ made on the area you will live/work.
 #### Disadvantages :poop:
  * Does not allow try-before-you-buy
  * May still imply multiple moves
-## How to execute possible plans
-## Possible timelines
-## Constraints and Limitations
+## How to execute possible plans - TODO
+## Constraints and Limitations - TODO Improve this and break down by plan
  * Job location
  * Selling Colorado house
 
-## Possible Locations
-### Fayetteville
-#### Summary
+# Possible Locations
+## Fayetteville
+### Summary
 Fayetteville is in vibrant NW AR which offers many amenities that are not 
 found elsewhere in the state. Lots of money has gone into this area and there 
 seems to be a more health-conscious population. It is further from most family 
 and friends, but offers many opportunities that are harder to find in other 
 parts of the state.
-#### Advantages
+### Advantages
  * Young population
  * Growing area
  * Close to many fun NW AR things
@@ -80,19 +79,19 @@ parts of the state.
  * Clean grocery store options
  * Close to Ozarks (outdoor activities)
  * Close to job opportunities
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Further from family
  * Further from friends
  * More expensive (probably)
  * Rockier soil (probably)
  * Harder (probably) to find uncontaminated land (chicken/pig farms)
-### Conway
-#### Summary
+## Conway
+### Summary
 Conway is an up-and-coming city with a young population. It is close to LR and 
 New Blaine which adds to its appeal. It is not part of the LR metro which brings
 certain pros and cons. It gives a slightly more rural character, but requires
 travel to LR for certain amenities.
-#### Advantages 
+### Advantages 
  * Young population
  * Growing area
  * Close to family
@@ -103,97 +102,97 @@ travel to LR for certain amenities.
  * Soil is more available (probably)
  * Easier to find uncontaminated land (probably)
  * Medium expensive (probably)
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Further from fun NW AR stuff
  * Fewer clean grocery store options (probably)
  * Relies on proximity to LR for some of its advantages listed above
-### Fort Smith
-#### Summary
+## Fort Smith
+### Summary
 Fort Smith is a blue collar town and thus cheaper. The air force base is growing
 and there will likely be potential for jobs. The many factories in the town also
 provide job opportunity. Its primary benefit its central location between NW AR
 and New Blaine, and its river valley location.
-#### Advantages
+### Advantages
  * Cheaper
  * Proximity to family
  * Closer to (some) friends
  * One hour to Fayetteville or New Blaine
  * Decent healthcare (maybe) and schools
  * Some museums (history type)
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Fewer job opportunities for Lucas (probably)
  * Must travel 1hr or more for anything bigger
-### Cabot
-#### Summary
+## Cabot
+### Summary
 Northeast of LR (30min). Smaller, more rural city close to LR. It is more delta 
 ecologically making the soil very good (likely). It very near to Jacksonville
 which provides job opportunities to Lucas. Relies heavily on proximity to LR for
 amenities. Apparently known for its strawberry festival and Cabotfest.
-#### Advantages
+### Advantages
  * Possibly best soil offering
  * Probably few chicken/pig farms
  * Small town, near to LR
  * Close to many defense type jobs
  * Near (45min) to Conway friends
  * Good duck hunting if you have water 
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Possibly more pesticide concerns (uncertain)
  * Further from New Blaine
  * Further from most outdoor activities (not Ozark, Ouachita, or lakes)
-### Benton
-#### Summary
+## Benton
+### Summary
 Southwest of LR (30min). Smaller, more rural but growing part of LR metro. Near
 to Hot Springs and LR, it is close to different types of amenities and
 entertainment. Very near to Bryant which has many amenities and (allegedly) is a
 homeschooling center. Near to family and 45min to Conway friends.
-#### Advantages
+### Advantages
  * Close to LR but still mostly rural
  * Close to fun shops in Bryant
  * Bryant allegedly is big on homeschool stuff
  * Close to Jonathan and Wendy
  * Near (45min) to Conway friends
  * Close to Hot Springs entertainment
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Further from New Blaine and most family
-### Hot Springs
-#### Summary
+## Hot Springs
+### Summary
 Southwest of LR and in the Ouachitas, it offers many entertainment and outdoor
 activities. Land appears to be relatively cheap but may be difficult to find
 suitable soil due to its ecology. It is slightly further from most family and
 friends.
-#### Advantages
+### Advantages
  * Lots of entertainment
  * Lots of fun restaurants (probably)
  * Close to various outdoor activities (lakes, Ouachitas)
  * Close to Benton family
  * Good fishing
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Far from NW AR
  * Further (1hr) to LR
  * Further (1:15) to friends in Conway
  * Further from most family
-### Russellville
-#### Summary
+## Russellville
+### Summary
 Center of the river valley, many different ecologies available. Center of Ozarks
 and Ouachitas, it is near to many outdoor-type activites. Very rural character.
 Near to New Blaine and Conway making it near, if not close, to family and
 friends.
-#### Advantages
+### Advantages
  * Proximity to many different outdoor activities
  * Cheaper
  * Proximity to New Blaine and Conway
  * Central between LR and NW AR
  * Good fishing and deer hunting
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Healthcare and schools are lower quality
  * Further from NW AR and LR
  * Few if any healthy grocery store options
-### Perryville, Bigelow, Roland
-#### Summary
+## Perryville, Bigelow, Roland
+### Summary
 Close to Conway and LR, this is where river valley meets the Ouachitas. Very
 rural, mostly farming communities. Good soil further east, more secluded further
 west. Proximity to Ouachitas gives it good proximity to outdoor activities.
-#### Advantages
+### Advantages
  * Close to Ouachitas, lakes, rivers
  * Close to Conway - Bigelow (25min), Perryville (35min), Roland (45min)
  * Close to LR - Roland (30min), then Bigelow, then Perryville (1hr)
@@ -201,46 +200,46 @@ west. Proximity to Ouachitas gives it good proximity to outdoor activities.
  * Good soil
  * Apparently a homesteading conference is here (small)
  * Good fishing, deer, and duck hunting
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * More secluded
  * Very little in the towns
  * Flood plain (good for soil, but must be considered for farm)
  * Further from healthcare and schools
-### New Blaine
-#### Summary
+## New Blaine
+### Summary
 New Blaine is where the Fulmer clan has become headquartered. There are multiple
 properties in the area which are already owned and may be immediately used. It 
 is relatively near to Conway and Fort Smith, though it's closest city with 
 standard amenities is Russeville and/or Clarksville.
-#### Advantages
+### Advantages
  * Property already available
  * Lowest cost
  * Very close to family
  * Good fishing, duck, and deer hunting because of families water access
  * Close to Ouachitas, Ozarks, Petit Jean, Magazine, Lake Dardanelle
  * Soil is likely good b/c of river valley
-#### Disadvantages :poop:
+### Disadvantages :poop:
  * Lower quality healthcare within 30min
  * Nearest cities only have basic amenities
  * Further from friends  - Conway (1:05)
  * Further from NW AR - Fayetteville (1:45)
  * Medium number of chicken/hog farms
-## What are the metrics, deciding factors, priorities?
-### Land Characteristics
+# What are the metrics, deciding factors, priorities?
+## Land Characteristics
  * Soil quality
  * Access to timber
-### Property Characteristics
+## Property Characteristics
  * Existing structures
  * Existing home
  * Live water, ponds, springs
-### Proximity to (need to order these by priority)
+## Proximity to (need to order these by priority)
  * Family/friends
  * Hospital
  * Schools
  * Quality grocery
  * Churches
-## What are the conditions that must be met?
-### Job Requirements
+# What are the conditions that must be met?
+## Job Requirements
  * Lucas has job ?
     - Lucas can has temp job
     - Lucas has permanent job
