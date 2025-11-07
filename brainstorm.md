@@ -3,8 +3,8 @@
 ### Summary
 Moving to a temporary location provides the opportunity to live in an area 
 before making the final decision. It also provides the ability to spend more
-time exploring and seeing the benefits or downsides to additional areas. 
-#### Advantages
+time exploring and seeing the benefits or downsides to areas of interest. 
+#### Advantages :thumbsup:
  * Try before you buy
  * More time for explortation
  * Ability to make more informed decision
@@ -19,27 +19,32 @@ a new location expidites the timeline. It entails making a decision prior to
 leaving Colorado on the (at least) area where you want to live. It does not 
 necessarily entail property is purchased, but would entail that a decision is 
 made on the area you will live/work.
-#### Advantages
+#### Advantages :thumbsup:
  * Shorter timeline
  * Less risk to job search aspect
- * Multiple moves will be shorter distance
+ * Multiple moves (if necessary) will be shorter distance
 #### Disadvantages :poop:
  * Does not allow try-before-you-buy
- * May still imply multiple moves
+ * May still imply multiple moves (e.g. rent, then buy)
 ## How to execute possible plans - TODO
 ## Constraints and Limitations - TODO Improve this and break down by plan
  * Job location
- * Selling Colorado house
+ * Job search may cause timeline to slip
+ * Selling Colorado house may
+ * New baby may cause timeline to slip
+ * No hard time/decision point for final decisions
+    - Selection of the area
+    - Move date from CO -> AR
 
 # Possible Locations
-## Fayetteville
+## Fayetteville :boar: :pignose:
 ### Summary
 Fayetteville is in vibrant NW AR which offers many amenities that are not 
 found elsewhere in the state. Lots of money has gone into this area and there 
 seems to be a more health-conscious population. It is further from most family 
 and friends, but offers many opportunities that are harder to find in other 
 parts of the state.
-### Advantages
+### Advantages :thumbsup:
  * Young population
  * Growing area
  * Close to many fun NW AR things
@@ -53,13 +58,13 @@ parts of the state.
  * More expensive (probably)
  * Rockier soil (probably)
  * Harder (probably) to find uncontaminated land (chicken/pig farms)
-## Conway
+## Conway :bear:
 ### Summary
 Conway is an up-and-coming city with a young population. It is close to LR and 
 New Blaine which adds to its appeal. It is not part of the LR metro which brings
 certain pros and cons. It gives a slightly more rural character, but requires
 travel to LR for certain amenities.
-### Advantages 
+### Advantages :thumbsup: 
  * Young population
  * Growing area
  * Close to family
@@ -74,13 +79,13 @@ travel to LR for certain amenities.
  * Further from fun NW AR stuff
  * Fewer clean grocery store options (probably)
  * Relies on proximity to LR for some of its advantages listed above
-## Fort Smith
+## Fort Smith :question:
 ### Summary
 Fort Smith is a blue collar town and thus cheaper. The air force base is growing
 and there will likely be potential for jobs. The many factories in the town also
 provide job opportunity. Its primary benefit its central location between NW AR
 and New Blaine, and its river valley location.
-### Advantages
+### Advantages :thumbsup:
  * Cheaper
  * Proximity to family
  * Closer to (some) friends
@@ -90,13 +95,13 @@ and New Blaine, and its river valley location.
 ### Disadvantages :poop:
  * Fewer job opportunities for Lucas (probably)
  * Must travel 1hr or more for anything bigger
-## Cabot
+## Cabot :strawberry:
 ### Summary
 Northeast of LR (30min). Smaller, more rural city close to LR. It is more delta 
 ecologically making the soil very good (likely). It very near to Jacksonville
 which provides job opportunities to Lucas. Relies heavily on proximity to LR for
 amenities. Apparently known for its strawberry festival and Cabotfest.
-### Advantages
+### Advantages :thumbsup:
  * Possibly best soil offering
  * Probably few chicken/pig farms
  * Small town, near to LR
@@ -107,13 +112,13 @@ amenities. Apparently known for its strawberry festival and Cabotfest.
  * Possibly more pesticide concerns (uncertain)
  * Further from New Blaine
  * Further from most outdoor activities (not Ozark, Ouachita, or lakes)
-## Benton
+## Benton :leopard:
 ### Summary
 Southwest of LR (30min). Smaller, more rural but growing part of LR metro. Near
 to Hot Springs and LR, it is close to different types of amenities and
 entertainment. Very near to Bryant which has many amenities and (allegedly) is a
 homeschooling center. Near to family and 45min to Conway friends.
-### Advantages
+### Advantages :thumbsup:
  * Close to LR but still mostly rural
  * Close to fun shops in Bryant
  * Bryant allegedly is big on homeschool stuff
@@ -122,13 +127,13 @@ homeschooling center. Near to family and 45min to Conway friends.
  * Close to Hot Springs entertainment
 ### Disadvantages :poop:
  * Further from New Blaine and most family
-## Hot Springs
+## Hot Springs :racehorse:
 ### Summary
 Southwest of LR and in the Ouachitas, it offers many entertainment and outdoor
 activities. Land appears to be relatively cheap but may be difficult to find
 suitable soil due to its ecology. It is slightly further from most family and
 friends.
-### Advantages
+### Advantages :thumbsup:
  * Lots of entertainment
  * Lots of fun restaurants (probably)
  * Close to various outdoor activities (lakes, Ouachitas)
@@ -139,13 +144,13 @@ friends.
  * Further (1hr) to LR
  * Further (1:15) to friends in Conway
  * Further from most family
-## Russellville
+## Russellville :cyclone:
 ### Summary
 Center of the river valley, many different ecologies available. Center of Ozarks
 and Ouachitas, it is near to many outdoor-type activites. Very rural character.
 Near to New Blaine and Conway making it near, if not close, to family and
 friends.
-### Advantages
+### Advantages :thumbsup:
  * Proximity to many different outdoor activities
  * Cheaper
  * Proximity to New Blaine and Conway
@@ -155,12 +160,12 @@ friends.
  * Healthcare and schools are lower quality
  * Further from NW AR and LR
  * Few if any healthy grocery store options
-## Perryville, Bigelow, Roland
+## Perryville, Bigelow, Roland :deciduous_tree:
 ### Summary
 Close to Conway and LR, this is where river valley meets the Ouachitas. Very
 rural, mostly farming communities. Good soil further east, more secluded further
 west. Proximity to Ouachitas gives it good proximity to outdoor activities.
-### Advantages
+### Advantages :thumbsup:
  * Close to Ouachitas, lakes, rivers
  * Close to Conway - Bigelow (25min), Perryville (35min), Roland (45min)
  * Close to LR - Roland (30min), then Bigelow, then Perryville (1hr)
@@ -179,7 +184,7 @@ New Blaine is where the Fulmer clan has become headquartered. There are multiple
 properties in the area which are already owned and may be immediately used. It 
 is relatively near to Conway and Fort Smith, though it's closest city with 
 standard amenities is Russeville and/or Clarksville.
-### Advantages
+### Advantages :thumbsup:
  * Property already available
  * Lowest cost
  * Very close to family
@@ -192,6 +197,7 @@ standard amenities is Russeville and/or Clarksville.
  * Further from friends  - Conway (1:05)
  * Further from NW AR - Fayetteville (1:45)
  * Medium number of chicken/hog farms
+ * Requires fully remote job for Lucas (likely)
 # What are the metrics, deciding factors, priorities?
 ## Land Characteristics
  * Soil quality
@@ -214,7 +220,7 @@ standard amenities is Russeville and/or Clarksville.
 ## Lucas Job
 ### Option 1 - Remote
 #### 1A - Job prior to moving
-##### Advantages
+##### Advantages :thumbsup:
  * Lucas can stay in job regardless of subsequent moves
  * Health insurance available prior to move
  * Continuity of insurance and pay
@@ -224,7 +230,7 @@ standard amenities is Russeville and/or Clarksville.
  * Harder to land remote job
  * Lucas less effective at remote work (usually)
 #### 1B - Move prior to landing job
-##### Advantages
+##### Advantages :thumbsup:
  * Simpler timeline with fewer constraints
  * Less dependencies
  * Potentially easier to find local remote jobs
@@ -235,7 +241,7 @@ standard amenities is Russeville and/or Clarksville.
  * No continuity of insurance
 ### Option 2 - In Person
 #### 2A - Job prior to moving
-##### Advantages
+##### Advantages :thumbsup:
  * Health insurance available at move time
  * Pay steady at move time
  * Easier to interview (probably)
@@ -247,7 +253,7 @@ standard amenities is Russeville and/or Clarksville.
  * May require finding another job if home purchased elsewhere
  * Lucas has less time to help with house, kids, farm
 #### 2B - Job after moving
-##### Advantages
+##### Advantages :thumbsup:
  * More flexible timeline
  * More knowledge of the area/job market
 ##### Disadvantages :poop:
