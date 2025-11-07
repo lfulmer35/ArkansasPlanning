@@ -15,3 +15,4 @@ some of the planning documentation for the move itself.
 
 ### Agriculture in Arkansas
  * USDA Portal [Data By County](https://www.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/County_Profiles/Arkansas/index.php)
+ * Contaminants By County [Sortable Excel Doc](https://github.com/lfulmer35/ArkansasPlanning/blob/master/contaminantsSortable.xlsx)
