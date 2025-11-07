@@ -199,14 +199,14 @@ standard amenities is Russeville and/or Clarksville.
  * Medium number of chicken/hog farms
  * Requires fully remote job for Lucas (likely)
 # What are the metrics, deciding factors, priorities?
-## Land Characteristics
+## Land Characteristics :seedling:
  * Soil quality
  * Access to timber
-## Property Characteristics
+## Property Characteristics :mailbox: :european_castle:
  * Existing structures
  * Existing home
  * Live water, ponds, springs
-## Proximity to (need to order these by priority)
+## Proximity to (need to order these by priority) :hospital: :church:
  * Family/friends
  * Hospital
  * Schools
