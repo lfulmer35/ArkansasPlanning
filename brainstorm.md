@@ -314,10 +314,9 @@ title Move Timeline
     section Movement
         Pack 1      :p1, 2025-11-4, 60d
         Move 1      :m1, after p1, 3d 
-        Pack 2      :p2, after m1, 60d
-        Move 2      :m2, after p2, 3d 
-        Pack 3      :p3, after m2, 120d
+        Pack 3      :p2, after m1, 120d
         Final Move  : m3, after ap2, 14d
+        List House  :milestone, after ap2, 60d
     section New Baby
         Due date    :milestone, 2026-03-13, 1d
         FAMLI Leave :bb1, 2026-03-13, 6w
