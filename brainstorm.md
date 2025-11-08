@@ -126,6 +126,7 @@ homeschooling center. Near to family and 45min to Conway friends.
  * Close to Jonathan and Wendy
  * Near (45min) to Conway friends
  * Close to Hot Springs entertainment
+ * Possibly lowest contaminant concentration
 ### Disadvantages :poop:
  * Further from New Blaine and most family
 ## Hot Springs :racehorse:
@@ -202,6 +203,22 @@ standard amenities is Russeville and/or Clarksville.
  * Further from NW AR - Fayetteville (1:45)
  * Medium number of chicken/hog farms
  * Requires fully remote job for Lucas (likely)
+## Other For Consideration
+## Paron - NNW of Benton
+### Summary
+What makes Paron interesting is that it is in Saline County which has low 
+concentration of contaminants. Paron is north into the Ouachitas so the 
+likelyhood of contaminants is even lower.
+ * 30 min to Benton
+ * 45 min to Little Rock or Hot Springs
+ * 60 min to Conway 
+ * 1:30 to New Blaine
+## Sheridan
+### Summary 
+Similar to Paron, low conentrations of contaminants. South of Little Rock.
+ * 30 min to Benton
+ * 35 min to Little Rock
+ * 1:15 to Conway
 # What are the metrics, deciding factors, priorities?
 ## Land Characteristics :seedling:
  * Soil quality
@@ -215,6 +232,7 @@ standard amenities is Russeville and/or Clarksville.
 |Crawford|Van Buren|5,611|35,524|20|Few|
 |Faulkner |Conway, Greenbriar, Vilonia| 7,377 | 166 | Few | 1,334|
 |Garland |Hot Springs| < 4,000 | 5,309 | Few | Few |
+|Grant|Sheridan|871|Few|38|None|
 |Logan | New Blaine|8,607 | 267,602 | 126 | Few |
 |Lonoke|Cabot|263,000|Few|Few|None|
 |Madison|Huntsville| Few|344,816|Few|2,074|
