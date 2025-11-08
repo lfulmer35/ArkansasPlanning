@@ -129,7 +129,7 @@ homeschooling center. Near to family and 45min to Conway friends.
  * Possibly lowest contaminant concentration
 ### Disadvantages :poop:
  * Further from New Blaine and most family
-## Hot Springs :racehorse:
+## Hot Springs :fountain:
 ### Summary
 Southwest of LR and in the Ouachitas, it offers many entertainment and outdoor
 activities. Land appears to be relatively cheap but may be difficult to find
