@@ -305,7 +305,7 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 gantt
 title Move Timeline
     dateFormat YYYY-MM-DD
-    tickInterval 1month
+    tickInterval 3month
     section Job Hunt
         Apply       : ap1, 2026-04-01, 90d
         Interview   : ap2, after ap1, 30d 
