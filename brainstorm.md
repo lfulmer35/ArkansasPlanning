@@ -326,7 +326,7 @@ title Move Timeline
     section New Property
         Explore    :after m3, 1y
         Decide     :d1, 2027-03-01, 30w
-        Search     :finSearch, 22w
+        Search     :finSearch, after d1, 22w
         Find       :milestone, 1d
         Move       : 7d
 ```
