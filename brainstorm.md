@@ -225,6 +225,7 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
  * Access to timber
  * Concentration of pesticide heavy crops :skull:
  * Conentration of animal contaminants (pig, chicken farms) :shit:
+ * Live water, ponds, springs
 ### County Comparisons by Contaminants
 | County | Example Town|  Pesticide Crops | Chickens | Hogs | Dairy|
 |----|----|----|----|----|----|
@@ -247,7 +248,6 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 ## Property Characteristics :mailbox: :european_castle:
  * Existing structures
  * Existing home
- * Live water, ponds, springs
 ## Proximity to (need to order these by priority) :hospital: :church:
  * Family/friends
  * Hospital
@@ -257,7 +257,7 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 # What are the conditions that must be met?
 ## Job Requirements
  * Lucas has job ?
-    - Lucas can has temp job
+    - Lucas has temp job
     - Lucas has permanent job
 ## Lucas Job :computer:
 ### Option 1 - Remote
