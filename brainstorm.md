@@ -305,6 +305,7 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 gantt
 title Move Timeline
     dateFormat YYYY-MM-DD
+    tickInterval 1month
     section Job Hunt
         Apply       : ap1, 2026-04-01, 90d
         Interview   : ap2, after ap1, 30d 
@@ -321,8 +322,11 @@ title Move Timeline
         Due date    :milestone, 2026-03-13, 1d
         FAMLI Leave :bb1, 2026-03-13, 6w
         Research Pediatrician : 2026-3-21, until m3
+        Baby #3     :bb2, 2027-04-01, 9month
     section New Property
-        Search     :after m3, 1y
-        Find       :milestone, 0d
+        Explore    :after m3, 1y
+        Decide     :d1, 2027-03-01, 30w
+        Search     :finSearch, 22w
+        Find       :milestone, 1d
         Move       : 7d
 ```
