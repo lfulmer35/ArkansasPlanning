@@ -232,10 +232,10 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 |Perrvyille, Bigelow, Roland|50-62|190-210|30/52|66/95|
 |Conway, Fort Smith, New Blaine, Russelville|42-49|200-210|28/52|69/94|
 |Cabot|48-52|220-230|30/52|70/93|
-|Fort Smith|42-49|200-210|28/52|69/94|
 |Fayetteville|46-52|180-205|26/50|66/90|
 |Bentonville|44-48|175-205|24/50|65/93|
 |Benton|48-54|210-240|32/58|70/94|
+|Hot Springs|52-66|190-233|29/53|65/94|
 
 ### County Comparisons by Contaminants
 | County | Example Town|  Pesticide Crops | Chickens | Hogs | Dairy|
