@@ -80,7 +80,7 @@ travel to LR for certain amenities.
  * Further from fun NW AR stuff
  * Fewer clean grocery store options (probably)
  * Relies on proximity to LR for some of its advantages listed above
-## Fort Smith :question:
+## Fort Smith :cat2:
 ### Summary
 Fort Smith is a blue collar town and thus cheaper. The air force base is growing
 and there will likely be potential for jobs. The many factories in the town also
