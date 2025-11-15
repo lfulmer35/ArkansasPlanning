@@ -193,7 +193,7 @@ standard amenities is Russeville and/or Clarksville.
  * Property already available
  * Lowest cost
  * Very close to family
- * Good fishing, duck, and deer hunting because of families water access
+ * Good fishing, duck, and deer hunting because of family's water access
  * Close to Ouachitas, Ozarks, Petit Jean, Magazine, Nebo, Lake Dardanelle
  * Soil is likely good b/c of river valley
 ### Disadvantages :poop:
