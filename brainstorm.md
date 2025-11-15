@@ -340,3 +340,12 @@ title Move Timeline
         Find       :milestone, 1d
         Move       : 7d
 ```
+
+# Decision Matrix (Example)
+|Weight|1|2|1|1|2|
+|----|----|----|----|----|----|----|
+|City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Total|
+|Conway|2|2|3|1|3|17|
+|Fayetteville|1|4|2|4|1|17|
+
+
