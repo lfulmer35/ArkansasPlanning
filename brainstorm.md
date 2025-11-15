@@ -329,8 +329,8 @@ title Move Timeline
         Final Move  : m3, after ap2, 14d
         List House  :milestone, after ap2, 60d
     section New Baby
-        Due date    :milestone, 2026-03-13, 1d
-        FAMLI Leave :bb1, 2026-03-13, 6w
+        Due date    :milestone, 2026-03-20, 1d
+        FAMLI Leave :bb1, 2026-03-20, 6w
         Research Pediatrician : 2026-3-21, until m3
         Baby #3     :bb2, 2027-04-01, 40w
     section New Property
