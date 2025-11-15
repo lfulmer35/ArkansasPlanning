@@ -227,7 +227,7 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
  * Conentration of animal contaminants (pig, chicken farms) :shit:
  * Live water, ponds, springs
 ### Climate Data
-|Location|Annual Precip (inches) |Frost Free Days|January Min/Max|July Min/Max|
+|Location|Annual Precip(in)|Frost Free Days|Jan Min/Max(Deg)|July Min/Max(Deg)|
 |----|----|----|----|----|
 |Perrvyille, Bigelow, Roland|50-62|190-210|30/52|66/95|
 |Conway, Fort Smith, New Blaine, Russelville|42-49|200-210|28/52|69/94|
