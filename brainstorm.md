@@ -342,7 +342,7 @@ title Move Timeline
 ```
 
 # Decision Matrix (Example)
-|Weight|1|2|1|1|2|
+|Weight|1|2|1|1|2|Total|
 |----|----|----|----|----|----|----|
 |City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Total|
 |Conway|2|2|3|1|3|17|
