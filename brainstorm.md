@@ -362,7 +362,7 @@ title Move Timeline
 ### Fun Stuff (distance)
  * < 30min to fun stuff is excellent
  * < 1hr to fun stuff is okay
- * &amp 1hr to fun stuff is bad
+ * `>` 1hr to fun stuff is bad
 
 |Weight|1|2|1|1|2|Total|
 |----|----|----|----|----|----|----|
