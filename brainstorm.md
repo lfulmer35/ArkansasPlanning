@@ -358,7 +358,7 @@ title Move Timeline
 ### Friends
  * < 30min to friends is good
  * < 1hr to friends is okay
- * > 1hr to friends is bad
+ * '>' 1hr to friends is bad
 ### Fun Stuff (distance)
  * < 30min to fun stuff is excellent
  * < 1hr to fun stuff is okay
