@@ -346,19 +346,23 @@ title Move Timeline
 ### Distance to Healthcare
  * < 15min to basic healthcare, < 30min to better quality is excellent
  * < 30min to basic healthcare, < 1hr to better healthcare is okay
- * > 30min to basic healtchare is bad
+ * `>` 30min to basic healtchare is bad
+### Availability of Non-Traditional Healthcare
+ * < 30min is excellent
+ * < 1hr is okay
+ * `>` 1hr is bad
 ### Distance to Family
  * < 30min to Lucas' family is excellent
  * < 1hr to Lucas' family is good
- * > 1hr to Lucas' family is bad
+ * `>` 1hr to Lucas' family is bad
 ### Churches
  * < 30min to multiple non-denom churches is good
  * < 30min to one non-denom church is okay
- * > 30min to any non-denom church is bad
+ * `>` 30min to any non-denom church is bad
 ### Friends
  * < 30min to friends is good
  * < 1hr to friends is okay
- * '>' 1hr to friends is bad
+ * `>` 1hr to friends is bad
 ### Fun Stuff (distance)
  * < 30min to fun stuff is excellent
  * < 1hr to fun stuff is okay
