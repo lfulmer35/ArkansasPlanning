@@ -325,8 +325,8 @@ title Move Timeline
     section Movement
         Pack 1      :p1, 2025-11-4, 75d
         Move 1      :m1, after p1, 3d 
-        Pack 2      :p2, after m1, 210d
-        Final Move  : m3, after ap2, 14d
+        Pack 2      :p2, after m1, 200d
+        Final Move  : m3, after p2, 14d
         List House  :milestone, after ap2, 60d
     section New Baby
         Due date    :milestone, 2026-03-20, 1d
