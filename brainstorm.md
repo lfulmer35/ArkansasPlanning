@@ -323,7 +323,7 @@ title Move Timeline
         Accept Job  : after ap2, 1d
         Start Job   :milestone, 2026-08-30
     section Movement
-        Pack 1      :p1, 2025-11-4, 60d
+        Pack 1      :p1, 2025-11-4, 75d
         Move 1      :m1, after p1, 3d 
         Pack 2      :p2, after m1, 210d
         Final Move  : m3, after ap2, 14d
