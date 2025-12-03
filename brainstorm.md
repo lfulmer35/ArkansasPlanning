@@ -325,7 +325,7 @@ title Move Timeline
     section Movement
         Pack 1      :p1, 2025-11-4, 60d
         Move 1      :m1, after p1, 3d 
-        Pack 3      :p2, after m1, 210d
+        Pack 2      :p2, after m1, 210d
         Final Move  : m3, after ap2, 14d
         List House  :milestone, after ap2, 60d
     section New Baby
@@ -340,7 +340,6 @@ title Move Timeline
         Find       :milestone, 1d
         Move       : 7d
 ```
-
 # Decision Matrix (Example)
 ## Description of Rating
 ### Distance to Healthcare
