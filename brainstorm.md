@@ -84,8 +84,8 @@ travel to LR for certain amenities.
 ### Summary
 Fort Smith is a blue collar town and thus cheaper. The air force base is growing
 and there will likely be potential for jobs. The many factories in the town also
-provide job opportunity. Its primary benefit its central location between NW AR
-and New Blaine, and its river valley location.
+provide job opportunity. Its primary benefit is its central location between NW
+AR and New Blaine, and its river valley location.
 ### Advantages :thumbsup:
  * Cheaper
  * Proximity to family
@@ -156,14 +156,14 @@ friends.
 ### Advantages :thumbsup:
  * Proximity to many different outdoor activities
  * Cheaper
- * Proximity to New Blaine and Conway
+ * Proximity to New Blaine (30min) and Conway (45min)
  * Central between LR and NW AR
  * Good fishing and deer hunting
  * Close to Ouachitas, Ozarks, Petit Jean, Nebo, Lake Dardanelle
 ### Disadvantages :poop:
  * Healthcare and schools are lower quality
- * Further from NW AR and LR
- * Few if any healthy grocery store options
+ * Further from NW AR (1:40) and LR (1:10)
+ * Few if any healthy grocery store options (1 small store)
 ## Perryville, Bigelow, Roland :deciduous_tree:
 ### Summary
 Close to Conway and LR, this is where river valley meets the Ouachitas. Very
