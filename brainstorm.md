@@ -380,7 +380,8 @@ title Move Timeline
  * < 10k is excellent
  * < 100k is okay
  * `>` is bad
-|Weight|1|2|1|1|2|Total|
+
+|Weight|1|2|1|1|2|3||Total|
 |----|----|----|----|----|----|----|----|
 |City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Contaminants|Total|
 |Conway|2|2|3|1|3|1|18|
