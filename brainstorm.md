@@ -204,6 +204,15 @@ standard amenities is Russeville and/or Clarksville.
  * Medium number of chicken/hog farms
  * Requires fully remote job for Lucas (likely)
 ## Other For Consideration
+## Jasper
+### Summary
+Obviously this is a beautiful area. One major consideration is that due to
+regulations pertaining to the Buffalo River watershed, there is virtually no 
+contamination concerns. It is far from family and friends however.
+ * Cheaper properties
+ * Beautiful area
+ * Harrison is nearest city
+ * No water or soil contamination concerns
 ## Paron - NNW of Benton
 ### Summary
 What makes Paron interesting is that it is in Saline County which has low 
