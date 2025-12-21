@@ -208,11 +208,12 @@ standard amenities is Russeville and/or Clarksville.
 ### Summary
 Obviously this is a beautiful area. One major consideration is that due to
 regulations pertaining to the Buffalo River watershed, there is virtually no 
-contamination concerns. It is far from family and friends however.
+contamination concerns. It is, however, far from family and friends.
  * Cheaper properties
  * Beautiful area
  * Harrison is nearest city
  * No water or soil contamination concerns
+ * Possibly rocky terrain
 ## Paron - NNW of Benton
 ### Summary
 What makes Paron interesting is that it is in Saline County which has low 
@@ -349,7 +350,7 @@ title Move Timeline
         Find       :milestone, 1d
         Move       : 7d
 ```
-# Decision Matrix (Example)
+# Decision Matrix (Example - Lowest Score Wins)
 ## Description of Rating
 ### Distance to Healthcare
  * < 15min to basic healthcare, < 30min to better quality is excellent
@@ -375,14 +376,17 @@ title Move Timeline
  * < 30min to fun stuff is excellent
  * < 1hr to fun stuff is okay
  * `>` 1hr to fun stuff is bad
-
+### Contaminant Concerns
+ * < 10k is excellent
+ * < 100k is okay
+ * `>` is bad
 |Weight|1|2|1|1|2|Total|
-|----|----|----|----|----|----|----|
-|City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Total|
-|Conway|2|2|3|1|3|17|
-|Fayetteville|1|4|2|4|1|17|
-|Benton|2|1|2|2|2|12|
-|Cabot|1|2|2|2|2|12|
-|Perryville|3|2|3|2|3|18|
-|Russellville|2|1|2|2|2|12|
+|----|----|----|----|----|----|----|----|
+|City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Contaminants|Total|
+|Conway|2|2|3|1|3|1|18|
+|Fayetteville|1|4|2|4|1|3|20|
+|Benton|2|1|2|2|2|1|13|
+|Cabot|1|2|2|2|2|3|15|
+|Perryville|3|2|3|2|3|2|20|
+|Russellville|2|1|2|2|2|3|15|
 
