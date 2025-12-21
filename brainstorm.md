@@ -381,7 +381,7 @@ title Move Timeline
  * < 100k is okay
  * `>` is bad
 
-|Weight|1|2|1|1|2|3|3|Total|
+|Weight|1|2|1|1|2|3|Total|
 |----|----|----|----|----|----|----|----|
 |City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Cont's|Total|
 |Conway|2|2|3|1|3|1|18|
