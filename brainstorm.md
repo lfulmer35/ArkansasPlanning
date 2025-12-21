@@ -383,7 +383,7 @@ title Move Timeline
 
 |Weight|1|2|1|1|2|3||Total|
 |----|----|----|----|----|----|----|----|
-|City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Contaminants|Total|
+|City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Cont's|Total|
 |Conway|2|2|3|1|3|1|18|
 |Fayetteville|1|4|2|4|1|3|20|
 |Benton|2|1|2|2|2|1|13|
