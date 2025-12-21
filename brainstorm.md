@@ -381,13 +381,13 @@ title Move Timeline
  * < 100k is okay
  * `>` is bad
 
-|Weight|1|2|1|1|2|3|Total|
+|Weight|2|3|1|2|1|2|Total|
 |----|----|----|----|----|----|----|----|
 |City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Cont's|Total|
-|Conway|2|2|3|1|3|1|18|
-|Fayetteville|1|4|2|4|1|3|20|
-|Benton|2|1|2|2|2|1|13|
-|Cabot|1|2|2|2|2|3|15|
-|Perryville|3|2|3|2|3|2|20|
-|Russellville|2|1|2|2|2|3|15|
+|Conway|2|2|3|1|3|1|20|
+|Fayetteville|1|3|2|3|1|3|25|
+|Benton|2|1|2|2|2|1|17|
+|Cabot|1|2|2|2|2|3|22|
+|Perryville|3|2|3|2|3|2|26|
+|Russellville|2|1|2|2|2|3|21|
 
