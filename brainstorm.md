@@ -399,10 +399,10 @@ title Move Timeline
 |Weight|2|3|1|2|1|2|Total|
 |----|----|----|----|----|----|----|----|
 |City|Dist to Healthcare|Dist to Family|Churches|Friends|Fun Stuff|Cont's|Total|
-|Conway|2|2|3|1|3|1|20|
+|Conway|1|2|3|1|3|1|19|
 |Fayetteville|1|3|2|3|1|3|25|
-|Benton|2|1|2|2|2|1|17|
+|Benton|1|2|2|2|2|1|17|
 |Cabot|1|2|2|2|2|3|22|
-|Perryville|3|2|3|2|3|2|26|
+|Perryville|2|2|3|2|3|2|26|
 |Russellville|2|1|2|2|2|3|21|
 |Jasper|2|3|3|3|2|1|26|
