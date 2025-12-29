@@ -266,21 +266,21 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 |Sebastian|Fort Smith|5,000|114,295|12|None|
 |Washington|Fayetteville|2,000|643,510|5,719|886|
 
-### County Median Income
-|County|Median Income|
-|---|---|
-|Benton|89,879|
-|Conway|51,212|
-|Faulkner|65,071|
-|Logan|54,237|
-|Lonoke|71,449|
-|Madison|53,888|
-|Perry|60,078|
-|Pope|54,606|
-|Pulaski|60,385|
-|Saline|76,535|
-|Washington|66,426|
-|Yell|58,870|
+### Other Characteristics by County
+|County|Pop 18-39 %|Median Income|Below Poverty Line %|
+|---|---|---|
+|Benton|30.6|89,879|5.7|
+|Conway|22.8|51,212|15.2|
+|Faulkner|35.8|65,071|9.9|
+|Logan|23.4|54,237|8.1|
+|Lonoke|28.8|71,449|8.1|
+|Madison|24.6|53,888|11.6|
+|Perry|22.6|60,078|10.6|
+|Pope|31.3|54,606|12.6|
+|Pulaski|30.2|60,385|12.3|
+|Saline|25.9|76,535|6.5|
+|Washington|36.3|66,426|8.4|
+|Yell|26.0|58,870|8.5|
 ## Property Characteristics :mailbox: :european_castle:
  * Existing structures
  * Existing home
