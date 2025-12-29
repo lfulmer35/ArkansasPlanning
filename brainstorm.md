@@ -268,7 +268,7 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
 
 ### Other Characteristics by County
 |County|Pop 18-39 %|Median Income|Below Poverty Line %|
-|---|---|---|
+|---|---|---|---|
 |Benton|30.6|89,879|5.7|
 |Conway|22.8|51,212|15.2|
 |Faulkner|35.8|65,071|9.9|
