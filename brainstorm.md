@@ -406,3 +406,18 @@ title Move Timeline
 |Perryville|2|2|3|2|3|2|26|
 |Russellville|2|1|2|2|2|3|21|
 |Jasper|2|3|3|3|2|1|26|
+
+
+# Prespective Companies
+## Fort Smith
+ * Arcbest (very qualified for the robotics infrastructure job)
+ * Lockheed (keep an eye out)
+ * Wayfinder (very qualified, remote eligible)
+## Little Rock
+ * CAE (C130J)
+ * SPP (keep an eye out)
+ * State of AR (a few positions)
+## Conway/Maumelle
+ * Quantic(sp?)
+ * Molex
+
