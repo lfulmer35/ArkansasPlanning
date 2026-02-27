@@ -17,4 +17,4 @@ some of the planning documentation for the move itself.
  * USDA Portal [Data By County](https://www.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/County_Profiles/Arkansas/index.php)
  * Contaminants By County - [Sortable Excel Doc](https://github.com/lfulmer35/ArkansasPlanning/blob/master/contaminantsSortable.xlsx), Browser Viewable [Non-Sortable](https://github.com/lfulmer35/ArkansasPlanning/blob/master/brainstorm.md#county-comparisons-by-contaminants)
  * Coop Extension Offices [By County](https://www.uaex.uada.edu/counties/)
- * UofA Ag Info [Farm & Ranch Resources](https://www.uaex.uada.edu/farm-ranch/)
+ * UofA Agro Info [Farm & Ranch Resources](https://www.uaex.uada.edu/farm-ranch/)
