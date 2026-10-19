@@ -290,58 +290,12 @@ Similar to Paron, low conentrations of contaminants. South of Little Rock.
  * Schools
  * Quality grocery
  * Churches
-# What are the conditions that must be met?
-## Job Requirements
- * Lucas has job ?
-    - Lucas has temp job
-    - Lucas has permanent job
-## Lucas Job :computer:
-### Option 1 - Remote
-#### 1A - Job prior to moving
-##### Advantages :thumbsup:
- * Lucas can stay in job regardless of subsequent moves
- * Health insurance available prior to move
- * Continuity of insurance and pay
- * Not tied to any location
- * Lucas more able to help with house, kids, farm
-##### Disadvantages :poop:
- * Harder to land remote job
- * Lucas less effective at remote work (usually)
-#### 1B - Move prior to landing job
-##### Advantages :thumbsup:
- * Simpler timeline with fewer constraints
- * Less dependencies
- * Potentially easier to find local remote jobs
-##### Disadvantages :poop:
- * Higher risk
- * Requries Cobra or marketplace insurance
- * Monetarily costly
- * No continuity of insurance
-### Option 2 - In Person
-#### 2A - Job prior to moving
-##### Advantages :thumbsup:
- * Health insurance available at move time
- * Pay steady at move time
- * Easier to interview (probably)
- * Lucas more effective in-office (usually)
- * More job opportunities (probably)
-##### Disadvantages :poop:
- * Less flexible timeline
- * May require Lucas to move before Celeste and family
- * May require finding another job if home purchased elsewhere
- * Lucas has less time to help with house, kids, farm
-#### 2B - Job after moving
-##### Advantages :thumbsup:
- * More flexible timeline
- * More knowledge of the area/job market
-##### Disadvantages :poop:
- * Same as Option 1 and 2A
 # Timeline
 ```mermaid
 gantt
 title Move Timeline
     dateFormat YYYY-MM-DD
-    tickInterval 3month
+    tickInterval 2month
     section Job Hunt
         Apply       : ap1, 2026-04-01, 90d
         Interview   : ap2, after ap1, 30d 
@@ -406,18 +360,4 @@ title Move Timeline
 |Perryville|2|2|3|2|3|2|26|
 |Russellville|2|1|2|2|2|3|21|
 |Jasper|2|3|3|3|2|1|26|
-
-
-# Prespective Companies
-## Fort Smith
- * Arcbest (very qualified for the robotics infrastructure job)
- * Lockheed (keep an eye out)
- * Wayfinder (very qualified, remote eligible)
-## Little Rock
- * CAE (C130J)
- * SPP (keep an eye out)
- * State of AR (a few positions)
-## Conway/Maumelle
- * Quantic(sp?)
- * Molex
 
